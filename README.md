@@ -28,7 +28,7 @@
 - **Languages**:
     
     <p>
-      <a href="https://skillicons.dev">
+      <a >
         <img src="https://skillicons.dev/icons?i=dart,js,cs,kotlin,java,py,php&perline=14" />
       </a>
     </p>
@@ -38,7 +38,7 @@
 - **Frameworks**:
 
     <p>
-      <a href="https://skillicons.dev">
+      <a >
         <img src="https://skillicons.dev/icons?i=flutter,react,angular,laravel,bootstrap&perline=14" />
       </a>
     </p>
@@ -46,7 +46,7 @@
 - **Database**:
 
     <p>
-      <a href="https://skillicons.dev">
+      <a>
         <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=14" />
       </a>
     </p>
@@ -54,9 +54,9 @@
 - **Softwares and Tools**:
 
     <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,nodejs,graphql,androidstudio,visualstudio&perline=14" />
-      </a>
+     <a>
+        <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,androidstudio,visualstudio&perline=14" />
+     </a>
     </p>
     
 <br/>
@@ -65,22 +65,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+        <a  target="_blank" href="https://www.linkedin.com/in/rodrigopamodelgado/">
+			<img src="https://skillicons.dev/icons?i=linkedin&perline=14" /></a>
+        <a  target="_blank" href="https://github.com/R-Pamo323">
+		<img src="https://skillicons.dev/icons?i=github&perline=14" /></a>
+		
       </div>
 
 </p>
