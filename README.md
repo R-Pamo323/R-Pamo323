@@ -63,9 +63,9 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
- <div align="center" class="icons-social" style="display: flex; justify-content: center; gap: 120px;">
+ <div align="center" class="icons-social">
     <a target="_blank" href="https://www.linkedin.com/in/rodrigopamodelgado/">
-        <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+        <img src="https://skillicons.dev/icons?i=linkedin&perline=1" style="margin-right: 120px;" />
     </a>
     <a target="_blank" href="https://github.com/R-Pamo323">
         <img src="https://skillicons.dev/icons?i=github&perline=1" />
