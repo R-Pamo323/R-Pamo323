@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Rodrigo Pamo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A Mobile App developer from Perú</h3>
+<h3 align="center">A FrontEnd Developer from Perú</h3>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE4d25iMTcxMWxjMXhuY3J1Ym9yNHI0OHFjY3h3Y2Rva2lrMW1jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
