@@ -28,20 +28,36 @@
 - **Languages**:
     
     <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,js,,cs,kotlin,java,py&perline=14" />
-  </a>
-</p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dart,js,cs,kotlin,java,py,php&perline=14" />
+      </a>
+    </p>
 
-<br>   
+  
     
-- **Front-End Development**:
+- **Frameworks**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,react,angular,laravel,bootstrap&perline=14" />
+      </a>
+    </p>
 
-<br>
+- **Database**:
+
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=14" />
+      </a>
+    </p>
+    
+- **Softwares and Tools**:
+
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,nodejs,graphql,androidstudio,visualstudio&perline=14" />
+      </a>
+    </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
 
