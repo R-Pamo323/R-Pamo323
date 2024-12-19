@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rodrigopamo323@gmail.com**
 
-- 📄 Know about my experiences <a href="https://r-pamo323.github.io/portafolioCV/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1JWm9wz8kvvAujrB9nZT-roeAv01Ncbin/view?usp=drive_link" target="blank">Resume</a>
 
 <br/>
 <br/>
